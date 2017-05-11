@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import WeatherDisplay from './WeatherDisplay';
-import "bootstrap/dist/css/bootstrap.css";
+import "bootswatch/superhero/bootstrap.css";
 import {Navbar, NavItem, Nav, Grid, Row, Col} from "react-bootstrap";
 
 const PLACES = [
