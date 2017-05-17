@@ -5,6 +5,7 @@ import "bootswatch/superhero/bootstrap.css";
 import {Navbar, NavItem, Nav, Grid, Row, Col} from "react-bootstrap";
 const PLACES = [
     {name: "Yerevan",zip:"0002"},
+    {name: "Ejmiatsin", zip: "616062"},
     {name: "Artashat", zip: "174979"},
     {name: "Kapan",zip:"174875"},
     {name: "Goris",zip:"174895"},
