@@ -6,14 +6,14 @@ import {Navbar, NavItem, Nav, Grid, Row, Col} from "react-bootstrap";
 const PLACES = [
     {name: "Yerevan",zip:"0002"},
     {name: "Artashat", zip: "174979"},
+    {name: "Kapan",zip:"174875"},
+    {name: "Goris",zip:"174895"},
     {name: "Vanadzor", zip: "616530"},
     {name: "Ijevan", zip: "616627"},
     {name: "Gyumri", zip: "616635"},
     {name: "Dilijan", zip: "616752"},
     {name: "Hrazdan",zip:"616629"},
     {name: "Agarak",zip:"175007"},
-    {name: "Kapan",zip:"174875"},
-    {name: "Goris",zip:"174895"},
     {name: "Metsamor", zip: '616417'}
 
 ];
