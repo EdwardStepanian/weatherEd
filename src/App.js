@@ -7,6 +7,9 @@ const PLACES = [
     {name: "Yerevan",zip:"0002"},
     {name: "Artashat", zip: "174979"},
     {name: "Vanadzor", zip: "616530"},
+    {name: "Ijevan", zip: "616627"},
+    {name: "Gyumri", zip: "616635"},
+    {name: "Dilijan", zip: "616752"},
     {name: "Hrazdan",zip:"616629"},
     {name: "Agarak",zip:"175007"},
     {name: "Kapan",zip:"174875"},
@@ -64,7 +67,7 @@ class App extends Component {
                     <div className="git">
                         <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-128.png" alt="github " />
 
-                        <a href="https://github.com/EdwardStepanian/GalleryEd">GitHub repo</a>
+                        <a href="https://github.com/EdwardStepanian">GitHub repo</a>
                     </div>
                 </div>
 

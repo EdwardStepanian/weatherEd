@@ -24,6 +24,10 @@
 .git > a{
   color: #fff !important;
 }
+.copyCont {
+  position: relative;
+  bottom: -80px;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
